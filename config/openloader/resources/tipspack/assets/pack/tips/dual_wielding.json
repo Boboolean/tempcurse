@@ -1,0 +1,14 @@
+{
+  "title": {
+    "text": "Tip:",
+    "bold": true,
+    "italic": "true",
+    "underlined": "true",
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "Wielding two melee weapons sometimes reveals new attack styles!",
+    "bold": false,
+    "color": "yellow"
+  }
+}

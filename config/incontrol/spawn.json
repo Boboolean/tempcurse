@@ -1,0 +1,38 @@
+[
+{
+  "mob": "upgrade_aquatic:thrasher",
+  "mincount": 12,
+  "result": "deny"
+},
+{
+  "mob": "enemyexpansion:crawler",
+  "mincount": 5,
+  "result": "deny"
+},
+{
+  "mob": "enemyexpansion:faller",
+  "mincount": 3,
+  "result": "deny"
+},
+{
+  "mob": "alexsmobs:lobster",
+  "mincount": 3,
+  "result": "deny"
+},
+
+{
+  "mob": ["enemyexpansion:sprinter","enemyexpansion:slugger"],
+  "biometags": "icy",
+  "result": "deny"
+},
+{
+  "mob": ["enemyexpansion:sprinter","enemyexpansion:slugger"],
+  "seesky": true,
+  "result": "default"
+},
+{
+  "mob": ["enemyexpansion:sprinter","enemyexpansion:slugger"],
+  "random": 0.75,
+  "result": "deny"
+}
+]

@@ -1,0 +1,14 @@
+{
+  "title": {
+    "text": "Tip:",
+    "bold": true,
+    "italic": "true",
+    "underlined": "true",
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "To create a ballista golem, use iron block legs, a dispenser torso, wood log arms, and a carved pumpkin head.",
+    "bold": false,
+    "color": "yellow"
+  }
+}

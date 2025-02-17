@@ -1,0 +1,14 @@
+{
+  "title": {
+    "text": "Tip:",
+    "bold": true,
+    "italic": "true",
+    "underlined": "true",
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "The comfort effect allows for passive healing, even when not at full hunger.",
+    "bold": false,
+    "color": "yellow"
+  }
+}

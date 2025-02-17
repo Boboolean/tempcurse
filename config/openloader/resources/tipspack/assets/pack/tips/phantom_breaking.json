@@ -1,0 +1,14 @@
+{
+  "title": {
+    "text": "Tip:",
+    "bold": true,
+    "italic": "true",
+    "underlined": "true",
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "Phantoms will break dreamer essence if they manage to reach it.",
+    "bold": false,
+    "color": "yellow"
+  }
+}
